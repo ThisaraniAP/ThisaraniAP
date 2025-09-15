@@ -1,6 +1,6 @@
-## Hello there! I'm Thisarani. :wave:
+## Hello there! I'm Thisa. :wave:
 
-I find modern and emerging technologies like Artificial Intelligence fasinating :dependabot: so I'm on a journey to learn more about it and how I can do it myself. I find coding really fun too because of the way I have to think to solve the problem and it's so satisfying to finally get it. My ccurrent goal is to become a full-stack developer and work on AI and other interesting technologies. :electron:
+I find modern and emerging technologies like Artificial Intelligence fascinating :dependabot: so I'm on a journey to learn more about it and how I can do it myself. I find coding really fun too because of the way I have to think to solve the problem and it's so satisfying to finally get it. My ccurrent goal is to become a full-stack developer and work on AI and other interesting technologies. :electron:
 
 #### Currently I'm completing my degree in Software Engineering and so far I've learnt💻:
  - Python
