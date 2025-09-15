@@ -11,7 +11,7 @@ I find modern and emerging technologies like Artificial Intelligence fasinating 
  - PHP
  - SQL
 
-You can chexk out my [LinkedIn](https://www.linkedin.com/in/thisaraniap/) to see what I've been up to and some of my projects! :octocat:
+You can check out my [LinkedIn](https://www.linkedin.com/in/thisaraniap/) to see what I've been up to and some of my projects! :octocat:
 
 <!---
 ThisaraniAP/ThisaraniAP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
